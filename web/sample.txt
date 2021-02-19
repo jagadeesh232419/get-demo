@@ -1,5 +1,0 @@
-some html context
-
-sometext
-
-3rd line
